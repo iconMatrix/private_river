@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Steve Aquila" />
+	<field key="version" value="1.0" />
+	<field key="description" value="Stops riverdashboard showing all tab." />
+	<field key="website" value="http://iconmatrix.com" />
+	<field key="copyright" value="(C) Steve Aquila 2011" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010071002" />
+</plugin_manifest>
